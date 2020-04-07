@@ -12,7 +12,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('http://icypath.com/tron.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
